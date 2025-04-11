@@ -1,4 +1,4 @@
-# Travel Diary App
+# JournMe-Travel-Diary
 
 A React Native application that allows users to document their travels by taking pictures and automatically recording their locations.
 
@@ -26,8 +26,8 @@ A React Native application that allows users to document their travels by taking
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/device-features-react-native.git
-cd device-features-react-native
+git clone https://github.com/binico08/JournMe-Travel-Diary.git
+cd JournMe-Travel-Diary
 ```
 
 2. Install dependencies:
@@ -94,4 +94,4 @@ The app includes the following validations:
 
 ## GitHub Repository
 
-This project is available at: 
+This project is available at: https://github.com/binico08/JournMe-Travel-Diary
